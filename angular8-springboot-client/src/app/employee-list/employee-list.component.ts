@@ -4,7 +4,7 @@ import { EmployeeService } from "./../employee.service";
 import { Employee } from "./../employee";
 import { Component, OnInit } from "@angular/core";
 import { Router } from '@angular/router';
-
+/
 @Component({
   selector: "app-employee-list",
   templateUrl: "./employee-list.component.html",

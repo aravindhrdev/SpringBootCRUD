@@ -9,3 +9,4 @@ import net.guides.springboot2.springboot2jpacrudexample.model.Employee;
 public interface EmployeeRepository extends JpaRepository<Employee, Long>{
 
 }
+//
